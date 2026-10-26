@@ -1,0 +1,11 @@
+{
+  "name": "Aetherfall",
+  "short_name": "Aetherfall",
+  "description": "A job-based browser MMORPG. Begin as a Novice, choose your path, master a job.",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0a0b10",
+  "theme_color": "#0a0b10",
+  "icons": []
+}
